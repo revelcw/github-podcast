@@ -1,0 +1,29 @@
+title: My podcast
+description: description
+feedUrl: http://example.com/rss.xml
+siteUrl: http://example.com
+imageUrl: http://example.com/icon.png
+author: Dylan Greene
+managingEditor: Dylan Greene
+webMaster: Dylan Greene
+copyright: 2013 Dylan Greene
+language: en
+categories:
+  - hi
+  - hello
+  - bye
+pubDate: May 20, 2012 04:00:00 GMT
+ttl: 60
+itunesAuthor: Max Nowack
+itunesSubtitle: I am a sub title
+itunesSummary: I am a summary
+itunesOwner:
+  name: Max Nowack
+  email: email@example.com
+itunesExplicit: false
+itunesCategory:
+  - text: Entertainment
+    subcats:
+      - text: Television
+itunesImage: http://example.com/image.png
+itunesType: serial
